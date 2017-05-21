@@ -1,5 +1,5 @@
-# react-es6-bootstrap-scss with webpack 2 with sourcemaps
-React + ES6 + Bootstrap + webpack 2 that display H1 `Hello World!`
+# react es6 bootstrap scss with webpack 2 sourcemaps
+Minimum React + ES6 + Bootstrap + webpack 2 + sourcemaps that display H1 `Hello World!`
 
 Install dependencies
 ```
