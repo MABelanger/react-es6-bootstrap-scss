@@ -13,4 +13,6 @@ $ npm run dev
 
 The `Hello World!` page is at : [http://localhost:8080/](http://localhost:8080/)
 
+![alt text](doc/scss_map.png)
+
 ![alt text](doc/jsx_map.png)
