@@ -9,7 +9,7 @@
     "upgrade:dev": "npm install --save-dev babel-cli babel-core babel-loader babel-preset-es2015 babel-preset-react css-loader file-loader node-sass sass-loader style-loader url-loader webpack webpack-dev-server",
     "upgrade:all": "npm run upgrade:prod && npm run upgrade:dev"
   },
-  "author": "",
+  "author": "Michel-Alexandre Belanger",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.7",
