@@ -19,6 +19,12 @@ $ npm run dev
 ```
 The `Hello World!` page is at : [http://localhost:8080/](http://localhost:8080/)
 
+As this the package.json is build on : `Mon 22 May 2017`, you can upgrade all the modules to the last version by running :
+```
+$ npm run upgrade:all
+```
+Be careful to the potential configuration incompatibility.
+
 ## SCSS sourcemaps
 ![alt text](doc/scss_map.png)
 
