@@ -8,12 +8,12 @@ Happy coding !
 
 
 ## Steps
-Install dependencies
+1. Install dependencies
 ```
 $ npm i
 ```
 
-To run webpack dev server:
+2. To run webpack dev server:
 ```
 $ npm run dev
 ```
