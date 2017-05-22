@@ -4,7 +4,7 @@ The purpose of this minimum boilerplate is to start coding right away React with
 
 This webpack configuration is not intended to be in production mode!
 
-Happy coding !
+Happy coding!
 
 
 ## Steps
