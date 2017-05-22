@@ -1,6 +1,6 @@
 # React ES6 Bootstrap SCSS Webpack2 with Sourcemaps
 
-The purpose of this minimum boilerplate is to start coding right away React with ES6 using Bootstrap library with SCSS and JSX sourcemaps. This is only display H1 `Hello World!` as example.
+The purpose of this minimum boilerplate is to start coding right away React with ES6 using only css Bootstrap library without JQuery with SCSS and JSX sourcemaps. This is only display H1 `Hello World!` as example.
 
 This webpack configuration is not intended to be in production mode!
 
